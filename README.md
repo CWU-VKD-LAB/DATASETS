@@ -2,6 +2,8 @@
 
 To stop duplicating datasets across projects this DATASETS projects will be a repository to house all project datasets including data information as seen in the table below.
 
+## Labeled Datasets
+
 | Dataset Name | Classes | Attributes | Total Cases | Distribution |
 |--------------|---------|------------|-------------|--------------|
 | Wine | 3 (4-8) | 11 | 178 | 6: 59, 7: 71, 8: 48 |
@@ -18,3 +20,5 @@ To stop duplicating datasets across projects this DATASETS projects will be a re
 ## License
 
 The datasets are sourced from the UCI Machine Learning Repository and Kaggle and are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+This project is freely avalable for both personal and commerical use under the [MIT License](LICENSE).
