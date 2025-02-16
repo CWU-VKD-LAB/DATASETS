@@ -1,6 +1,6 @@
 # DATASETS
 
-To stop duplicating datasets across projects this DATASETS projects will be a repository to house all project datasets including data information.
+To stop duplicating datasets across projects this DATASETS projects will be a repository to house all project datasets including data information as seen in the table below.
 
 | Dataset Name | Classes | Attributes | Total Cases | Distribution |
 |--------------|---------|------------|-------------|--------------|
@@ -14,3 +14,7 @@ To stop duplicating datasets across projects this DATASETS projects will be a re
 | Diabetes | 2 (Positive/Negative) | 8 | 768 | Positive: 268, Negative: 500 |
 | Breast Cancer Wisconsin | 2 (Malignant/Benign) | 30 | 569 | Malignant: 212, Benign: 357 |
 | Breast Cancer Wisconsin Diagnostic | 2 (Malignant/Benign) | 9 | 699 | Malignant: 241, Benign: 458 |
+
+## License
+
+The datasets are sourced from the UCI Machine Learning Repository and Kaggle and are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
