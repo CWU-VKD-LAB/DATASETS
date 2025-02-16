@@ -1,8 +1,10 @@
 # DATASETS
 
-To stop duplicating datasets across projects this DATASETS projects will be a repository to house all project datasets including data information as seen in the table below.
+To stop duplicating datasets across projects this DATASETS projects will be a repository to house all project datasets including data information.
 
 ## Labeled Datasets
+
+Every dataset in this repository is labeled with a column called `class`, case-insensitive, that contains the class name for each case. This column can be in the form of a string, integer, or boolean and is located anywhere in the dataset.
 
 | Dataset Name | Classes | Attributes | Total Cases | Distribution |
 |--------------|---------|------------|-------------|--------------|
