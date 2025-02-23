@@ -18,6 +18,7 @@ Every dataset in this repository is labeled with a column called `class`, case-i
 | Diabetes | 2 (Positive/Negative) | 8 | 768 | Positive: 268, Negative: 500 |
 | Breast Cancer Wisconsin | 2 (Malignant/Benign) | 30 | 569 | Malignant: 212, Benign: 357 |
 | Breast Cancer Wisconsin Diagnostic | 2 (Malignant/Benign) | 9 | 699 | Malignant: 241, Benign: 458 |
+| Glass Classification | 7 | 10 | _ | _
 
 ## License
 
